@@ -66,6 +66,7 @@ notebook_shim==0.2.4
 numpy==2.0.2
 overrides==7.7.0
 packaging==25.0
+pandas
 pandocfilters==1.5.1
 parso==0.8.5
 pexpect==4.9.0
@@ -92,6 +93,7 @@ rpds-py==0.27.1
 Send2Trash==2.0.0
 six==1.17.0
 soupsieve==2.8.1
+sklearn
 stack-data==0.6.3
 terminado==0.18.1
 tinycss2==1.4.0
